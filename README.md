@@ -1,2 +1,2 @@
-# helipad
-project of helipad
+# collisionAlgorithm
+Algorithm to detect collision between two objects
